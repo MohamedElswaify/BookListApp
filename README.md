@@ -1,4 +1,4 @@
-# BookListApp
+# BookListApp (react native)
 
 ## 🚀 How to use
 
